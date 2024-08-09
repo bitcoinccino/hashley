@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ed1e79;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4.81" y1="7.83" x2="9.05" y2="7.83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed1e79"/>
+      <stop offset=".96" stop-color="#522785"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" width="16" height="16"/>
+  <g>
+    <polyline class="cls-3" points="5.22 4.15 5.22 1.71 2.92 1.71 2.92 4.13"/>
+    <polyline class="cls-3" points="5.22 11.47 5.22 14.29 2.92 14.29 2.92 11.45"/>
+    <polyline class="cls-3" points="13.11 4.22 13.11 1.71 10.81 1.71 10.81 4.2"/>
+    <polyline class="cls-3" points="13.11 11.54 13.11 14.29 10.81 14.29 10.81 11.52"/>
+    <polyline class="cls-3" points="2.92 6.45 1.77 6.44 1.79 4.12 2.92 4.13"/>
+    <polygon class="cls-3" points="13.11 4.22 13.11 11.54 10.81 11.52 5.22 11.47 2.92 11.45 2.92 4.13 5.22 4.15 10.81 4.2 13.11 4.22"/>
+    <polyline class="cls-3" points="13.11 6.54 14.21 6.55 14.23 4.23 13.11 4.22"/>
+    <polyline class="cls-3" points="2.92 11.45 1.77 11.44 1.79 9.12 2.92 9.13"/>
+    <polyline class="cls-3" points="13.11 11.54 14.21 11.55 14.23 9.23 13.11 9.22"/>
+    <path class="cls-1" d="M8.02,5.38c.75-.67,1.92-.65,2.64.07.73.72.75,1.87.08,2.62l-2.72,2.71-2.72-2.71c-.67-.75-.65-1.9.08-2.62.73-.72,1.89-.75,2.64-.07Z"/>
+  </g>
+</svg>
