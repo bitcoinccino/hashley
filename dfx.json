@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "hashley_backend": {
+      "main": "src/hashley_backend/main.mo",
+      "type": "motoko"
+    },
+    "hashley_frontend": {
+      "dependencies": [
+        "hashley_backend"
+      ],
+      "source": [
+        "src/hashley_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "hashley_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
